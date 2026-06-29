@@ -64,3 +64,12 @@ Initial architecture design completed (v1)
 
 ### Status
 Network foundation deployed in Azure
+
+## Deployment Evidence
+
+### Virtual Network
+The Virtual Network (`vnet-frost-prod-eus`) was successfully deployed in Azure.
+
+See deployment screenshot:
+
+![VNet Overview](../screenshots/vnet-overview.png)
