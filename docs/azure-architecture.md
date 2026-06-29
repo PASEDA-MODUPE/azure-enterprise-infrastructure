@@ -73,3 +73,19 @@ The Virtual Network (`vnet-frost-prod-eus`) was successfully deployed in Azure.
 See deployment screenshot:
 
 ![VNet Overview](../screenshots/vnet-overview.png)
+
+## Compute Deployment
+
+### Virtual Machine
+
+- **Name:** vm-web-01
+- **Operating System:** Ubuntu Server 24.04 LTS
+- **Region:** East US
+- **Resource Group:** rg-frost-compute
+- **Virtual Network:** vnet-frost-prod-eus
+- **Subnet:** subnet-web
+- **Status:** Running
+
+### Deployment Evidence
+
+![VM Overview](../screenshots/vm-web-01-overview.png)
