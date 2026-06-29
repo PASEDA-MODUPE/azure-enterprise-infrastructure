@@ -50,3 +50,21 @@ The proposed Azure environment will include the following core components:
 ## Status
 
 Initial architecture draft (v1)
+
+## Resource Organization
+
+### Resource Groups
+- rg-frost-networking
+- rg-frost-compute
+- rg-frost-security
+- rg-frost-storage
+- rg-frost-monitoring
+
+### Naming Convention
+<frost>-<service>-<environment>-<region>
+
+Example:
+frost-vm-prod-eus
+
+### Region Strategy
+Primary region: East US
