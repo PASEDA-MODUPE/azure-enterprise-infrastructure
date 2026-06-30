@@ -89,3 +89,15 @@ See deployment screenshot:
 ### Deployment Evidence
 
 ![VM Overview](../screenshots/vm-web-01-overview.png)
+
+## Web Server Deployment
+
+### Nginx Installation
+
+- Installed Nginx on Ubuntu VM
+- Opened port 80 in Azure Network Security Group
+- Verified public access via browser
+
+### Evidence
+
+![Nginx Live](../screenshots/nginx-live.png)
