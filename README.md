@@ -10,6 +10,6 @@ The project demonstrates how Azure services can be used to build a secure, scala
 
 The diagram below shows the high-level architecture of the Azure infrastructure for Frost Retail.
 
-![Azure Enterprise Architecture](screenshots/architecture-diagram.png)
+![Azure Enterprise Architecture](docs/screenshots/architecture-diagram.png)
 
 > **Project Status:** In Progress
