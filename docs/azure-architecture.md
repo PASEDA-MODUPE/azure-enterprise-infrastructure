@@ -72,7 +72,7 @@ The Virtual Network (`vnet-frost-prod-eus`) was successfully deployed in Azure.
 
 See deployment screenshot:
 
-![VNet Overview](../screenshots/vnet-overview.png)
+![VNet Overview](docs/screenshots/vnet-overview.png)
 
 ## Compute Deployment
 
@@ -88,7 +88,7 @@ See deployment screenshot:
 
 ### Deployment Evidence
 
-![VM Overview](screenshots/vm-web-01-overview.png)
+![VM Overview](docs/screenshots/vm-web-01-overview.png)
 
 ## Web Server Deployment
 
@@ -100,4 +100,4 @@ See deployment screenshot:
 
 ### Evidence
 
-![Nginx Live](screenshots/nginx-live.png)
+![Nginx Live](docs/screenshots/nginx.png)
