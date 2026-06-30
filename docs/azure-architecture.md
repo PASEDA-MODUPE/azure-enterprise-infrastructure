@@ -88,7 +88,7 @@ See deployment screenshot:
 
 ### Deployment Evidence
 
-![VM Overview](../screenshots/vm-web-01-overview.png)
+![VM Overview](screenshots/vm-web-01-overview.png)
 
 ## Web Server Deployment
 
@@ -100,4 +100,4 @@ See deployment screenshot:
 
 ### Evidence
 
-![Nginx Live](../screenshots/nginx-live.png)
+![Nginx Live](screenshots/nginx-live.png)
