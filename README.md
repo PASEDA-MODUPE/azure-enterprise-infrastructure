@@ -6,4 +6,10 @@ This repository contains the design, implementation, and documentation of a prod
 
 The project demonstrates how Azure services can be used to build a secure, scalable, highly available, and well-governed cloud environment using Microsoft Azure best practices.
 
+## Architecture Diagram
+
+The diagram below shows the high-level architecture of the Azure infrastructure for Frost Retail.
+
+![Azure Enterprise Architecture](screenshots/architecture-diagram.png)
+
 > **Project Status:** In Progress
